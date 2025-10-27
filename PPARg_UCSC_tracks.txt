@@ -1,0 +1,6 @@
+track PPARg_Adipocytes type=bigWig container=multiWig visibility=full aggregate=none name="PPARg_Adipocytes_ChIPseq" description="PPARg ChIP-seq in Adipocytes"
+  track GSM3177950_P1_Adipocytes_PPARg_ChIP bigDataUrl=https://dixonair.github.io/PPARg_ChIPseq_BigWigs/GSM3177950_P1_Adipocytes_PPARg_ChIP.bigwig name="GSM3177950_P1_Adipocytes_PPARg_ChIP" visibility=full autoScale=on
+  track GSM3177951_P1_Adipocytes_PPARg_ChIP bigDataUrl=https://dixonair.github.io/PPARg_ChIPseq_BigWigs/GSM3177951_P1_Adipocytes_PPARg_ChIP.bigwig name="GSM3177951_P1_Adipocytes_PPARg_ChIP" visibility=full autoScale=on
+  track GSM3177952_P1_Adipocytes_PPARg_ChIP bigDataUrl=https://dixonair.github.io/PPARg_ChIPseq_BigWigs/GSM3177952_P1_Adipocytes_PPARg_ChIP.bigwig name="GSM3177952_P1_Adipocytes_PPARg_ChIP" visibility=full autoScale=on
+  track GSM3177953_P1_Adipocytes_PPARg_ChIP bigDataUrl=https://dixonair.github.io/PPARg_ChIPseq_BigWigs/GSM3177953_P1_Adipocytes_PPARg_ChIP.bigwig name="GSM3177953_P1_Adipocytes_PPARg_ChIP" visibility=full autoScale=on
+  track GSM3177954_P1_Adipocytes_PPARg_ChIP bigDataUrl=https://dixonair.github.io/PPARg_ChIPseq_BigWigs/GSM3177954_P1_Adipocytes_PPARg_ChIP.bigwig name="GSM3177954_P1_Adipocytes_PPARg_ChIP" visibility=full autoScale=on
