@@ -1,0 +1,5 @@
+track type=bigWig name="PPARg_Adipocytes_P1" description="PPARg ChIP-seq Adipocytes P1" bigDataUrl=https://dixonair.github.io/PPARg_ChIPseq_BigWigs/GSM3177950_P1_Adipocytes_PPARg_ChIP.bigwig color=255,0,0 visibility=full
+track type=bigWig name="PPARg_Adipocytes_P2" description="PPARg ChIP-seq Adipocytes P2" bigDataUrl=https://dixonair.github.io/PPARg_ChIPseq_BigWigs/GSM3177951_P2_Adipocytes_PPARg_ChIP.bigwig color=0,255,0 visibility=full
+track type=bigWig name="PPARg_Adipocytes_P3" description="PPARg ChIP-seq Adipocytes P3" bigDataUrl=https://dixonair.github.io/PPARg_ChIPseq_BigWigs/GSM3177952_P3_Adipocytes_PPARg_ChIP.bigwig color=0,0,255 visibility=full
+track type=bigWig name="PPARg_Adipocytes_P4" description="PPARg ChIP-seq Adipocytes P4" bigDataUrl=https://dixonair.github.io/PPARg_ChIPseq_BigWigs/GSM3177953_P4_Adipocytes_PPARg_ChIP.bigwig color=255,165,0 visibility=full
+track type=bigWig name="PPARg_Adipocytes_P5" description="PPARg ChIP-seq Adipocytes P5" bigDataUrl=https://dixonair.github.io/PPARg_ChIPseq_BigWigs/GSM3177954_P5_Adipocytes_PPARg_ChIP.bigwig color=128,0,128 visibility=full
