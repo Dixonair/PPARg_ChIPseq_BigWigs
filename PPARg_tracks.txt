@@ -3,3 +3,6 @@ track type=bigWig name="PPARg_Adipocytes_P2" description="PPARg ChIP-seq Adipocy
 track type=bigWig name="PPARg_Adipocytes_P3" description="PPARg ChIP-seq Adipocytes P3" bigDataUrl=https://dixonair.github.io/PPARg_ChIPseq_BigWigs/GSM3177952_P3_Adipocytes_PPARg_ChIP.bigwig color=0,0,255 visibility=full
 track type=bigWig name="PPARg_Adipocytes_P4" description="PPARg ChIP-seq Adipocytes P4" bigDataUrl=https://dixonair.github.io/PPARg_ChIPseq_BigWigs/GSM3177953_P4_Adipocytes_PPARg_ChIP.bigwig color=255,165,0 visibility=full
 track type=bigWig name="PPARg_Adipocytes_P5" description="PPARg ChIP-seq Adipocytes P5" bigDataUrl=https://dixonair.github.io/PPARg_ChIPseq_BigWigs/GSM3177954_P5_Adipocytes_PPARg_ChIP.bigwig color=128,0,128 visibility=full
+track name="CARE" description="CARE (C/EBP–ATF4)" visibility=3 color=0,128,0 https://github.com/Dixonair/PPARg_ChIPseq_BigWigs/releases/download/v1.1/CARE_sites_hg38.bed
+track name="PPRE" description="PPRE (PPARγ:RXRA)" visibility=3 color=255,0,0 https://github.com/Dixonair/PPARg_ChIPseq_BigWigs/releases/download/v1.1/PPRE_sites_hg38.bed
+track name="SRE" description="SRE (SREBF1)" visibility=3 color=0,0,255 https://github.com/Dixonair/PPARg_ChIPseq_BigWigs/releases/download/v1.1/SRE_sites_hg38.bed
